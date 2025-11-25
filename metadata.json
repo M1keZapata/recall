@@ -1,0 +1,5 @@
+{
+  "name": "Recall",
+  "description": "A smart bookmark manager that uses Gemini to recall, summarize, and find connections between your saved content from across the web.",
+  "requestFramePermissions": []
+}
